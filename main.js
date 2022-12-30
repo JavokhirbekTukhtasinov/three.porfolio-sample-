@@ -112,7 +112,6 @@ document.body.onscroll = moveCamera;
 moveCamera();
 
 // Animation Loop
-
 function animate() {
   requestAnimationFrame(animate);
 
